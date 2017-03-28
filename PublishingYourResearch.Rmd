@@ -1,22 +1,89 @@
 ---
 title: "Publishing your research"
 author: "Lewis Spurgin"
-date: "28 March 2017"
-output: ioslides_presentation
+date: "March 2017"
+output: 
+  ioslides_presentation:
+    transition: faster
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## We have very cool jobs
-
-
-![](Images/CEECscience.png =100x200)
-
-## Why publish?
 
 
 
+## Lucky scientists
 
-## Why publish?
+<div align="center">
+<img src="Images/CEECscience.png" width=600>
+</div>
+
+
+
+
+
+## Who pays for all this then?
+
+<div align="center">
+<br>
+<img src="Images/tax.png" width=600>
+</div>
+
+
+
+
+
+## We have a duty to share
+
+<div align="center">
+<br>
+<img src="Images/PhilTrans.jpg" width=600>
+</div>
+
+
+
+
+
+## Publishing and academia
+
+<div align="center">
+<img src="Images/PI.png" width=450>
+</div>
+<div align="right">
+<p style="font-size:10px"> van Dijk et al. (2014) *Current Biology*</p>
+</div>
+
+
+
+
+
+## Common arguments against publishing research
+
+<br>
+
+- I'm not carrying on in science
+
+- My results aren't significant
+
+- My results aren't interesting
+
+
+
+
+## Writing a paper
+
+
+
+
+
+##Celebrate small achievements
+
+<br>
+<div align="center">
+<img src="Images/celebrate.png" width=600>
+</div>
+
+
+
