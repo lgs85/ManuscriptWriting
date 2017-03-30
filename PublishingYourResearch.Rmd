@@ -37,12 +37,16 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 
+
+
 ## We have a duty to share
 
 <div align="center">
 <br>
 <img src="Images/PhilTrans.jpg" width=600>
 </div>
+
+
 
 
 
@@ -60,10 +64,18 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 
+
+
+
+
 ## Publishing and academia
 
 <div align="center">
 <img src="Images/fellowship.png" width=600>
+</div>
+
+<div align="right">
+<p style="font-size:10px"> *Source: Jenny Gill*</p>
 </div>
 
 
@@ -72,8 +84,28 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 
-## Common arguments against publishing research
 
+## Publishing and transferable skills
+
+- Producing high quality outputs
+- Working to deadlines
+- Writing collaboratively
+- Writing cover letters
+- Interacting with world experts
+- Dealing with difficult people
+- Responding to criticism
+- Dealing with rejection
+- Publicising your work
+
+
+
+
+
+
+
+
+
+## Common arguments against publishing research
 <br>
 
 - I'm not carrying on in science
@@ -86,12 +118,31 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 
+
+---
+
+<div align="center">
+<img src="Images/publicationbias.png" width=300>
+</div>
+<div align="center">
+*"Authors and publishers [should] consider negative results to be as valid as positive findings for publication and dissemination"* European Code of Conduct for Research Integrity, 2017
+</div>
+
+
+
+
+
+
+
 #How to write a paper
 
 
 
-## How to write a paper
 
+
+
+
+## How to write a paper
 <br>
 <br>
 
@@ -100,11 +151,24 @@ knitr::opts_chunk$set(echo = TRUE)
 2. Make it good
 
 
+
+
+
+
+
+
+
+
 #1. Write a paper
 
 
-##1. Write a paper
 
+
+
+
+
+
+---
 
 <div align="center">
 "The scariest moment is always just before you start"
@@ -113,6 +177,46 @@ knitr::opts_chunk$set(echo = TRUE)
 <div align="center">
 <img src="Images/stephenking.jpg" width=400>
 </div>
+
+
+
+
+
+
+
+---
+
+<div align="center">
+"All my life, I've been frightened at the moment I sit down to write"
+</div>
+<br>
+<div align="center">
+<img src="Images/GabrielGarciaMarquez.jpg" width=300>
+</div>
+
+
+
+
+
+
+
+
+
+##1. Write a paper
+
+<br>
+
+- Can be viewed initially as multiple small(ish) writing tasks
+
+- You don't have to start at the beginning
+
+- It doesn't have to be good to begin with
+
+- You can't wait around for inspiration - you just have to get on with it
+
+
+
+
 
 
 
@@ -128,6 +232,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 
+
+
 ##1. Write a paper | Figures and tables
 Figures and table should:
 
@@ -138,10 +244,17 @@ Figures and table should:
 
 
 
+
+
 ---
 <div align="center">
 <img src="Images/catfigure.png" width=520>
 </div>
+
+
+
+
+
 
 
 ##1. Write a paper | Results
@@ -159,6 +272,16 @@ Usually something like:
 - Field methods / broad experimental set up
 - Molecular methods / specific experimental methods
 - Statistical analyses
+
+
+
+
+##1. Write a paper | Abstract
+
+- Writing before intro/discussion helps me figure out the main things I want to say
+
+- You can send this round to main co-authors
+
 
 
 
@@ -181,7 +304,14 @@ Usually something like:
 
 
 
+
+
+
 #2. Make it good
+
+
+
+
 
 
 ##2. Make it good
@@ -190,6 +320,9 @@ Usually something like:
 - Know your stuff
 
 - Write well
+
+
+
 
 
 ##2. Make it good | Know your stuff
@@ -201,11 +334,17 @@ Usually something like:
 
 
 
+
+
 ##2. Make it good | Write well
 - Write some stuff
 - Write some more stuff
 - Write some more more stuff
 - &c
+
+
+
+
 
 ##2. Make it good | Write well
 
@@ -215,10 +354,11 @@ Start thinking of yourself as a writer
 <img src="Images/scientistswrite.png" width=300>
 </div>
 
-##Know your stuff and write well
 
-<br>
-<br>
+
+
+
+##Know your stuff and write well | Combining reading and writing
 
 - Start reviewing manuscripts
 - Critique the writing of everything you read
@@ -228,6 +368,14 @@ Start thinking of yourself as a writer
 - Write anything
 
 
+
+##Know your stuff and write well | Get feedback
+
+- Your cohort / friends
+- Senior members of your research group
+- Your supervisors
+- Your coauthors
+- Other experts
 
 
 
